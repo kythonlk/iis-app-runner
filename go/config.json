@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Node",
+    "command": "node app.js",
+    "port": 3000,
+    "path": "C:/test/abc"
+  },
+  {
+    "name": "Go",
+    "command": "go run main.go",
+    "port": 8080,
+    "path": "C:/test/abcd"
+  }
+]
